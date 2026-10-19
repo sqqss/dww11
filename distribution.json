@@ -1,3 +1,4 @@
+@'
 {
   "version": "1.0.0",
   "rss": "",
@@ -52,3 +53,4 @@
     }
   ]
 }
+'@ | Set-Content -Path "app\distribution.json" -Encoding UTF8
