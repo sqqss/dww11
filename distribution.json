@@ -24,7 +24,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5000000,
-            "url": "https://github.com/sqqss/dww11/releases/download/v1.0.0/iris-neoforge-1.11.7+mc26.3.jar",
+            "url": "https://raw.githubusercontent.com/sqqss/dww11/main/iris-fabric-1.11.7%2Bmc26.3.jar",
             "MD5": "0"
           }
         },
@@ -34,7 +34,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2000000,
-            "url": "https://github.com/sqqss/dww11/releases/download/v1.0.0/sodium-fabric-0.9.2+mc26.3.jar",
+            "url": "https://raw.githubusercontent.com/sqqss/dww11/main/sodium-fabric-0.9.2%2Bmc26.3.jar",
             "MD5": "0"
           }
         },
@@ -44,7 +44,7 @@
           "type": "File",
           "artifact": {
             "size": 10000000,
-            "url": "https://github.com/sqqss/dww11/releases/download/v1.0.0/BSL_v10.1.8.zip",
+            "url": "https://raw.githubusercontent.com/sqqss/dww11/main/BSL_v10.1.8.zip",
             "MD5": "0"
           }
         }
